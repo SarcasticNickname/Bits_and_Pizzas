@@ -13,7 +13,7 @@
         <item>Spaghetti Bolognese</item>
         <item>Lasagne</item>
     </string-array>
-    
+
     <string-array name="stores">
         <item>Cambridge</item>
         <item>Sebastopol</item>
@@ -35,5 +35,7 @@
 
     <string name="order_name_hint">Please enter your name</string>
     <string name="order_details_hint">Please enter your order</string>
+
+    <string name="fab_button_description">Done button</string>
 
 </resources>

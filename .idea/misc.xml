@@ -7,7 +7,13 @@
         <entry key="..\:/Users/derel/AndroidStudioProjects/BitsandPizzas/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1945" />
         <entry key="..\:/Users/derel/AndroidStudioProjects/BitsandPizzas/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/derel/AndroidStudioProjects/BitsandPizzas/app/src/main/res/layout/activity_order.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/derel/AndroidStudioProjects/BitsandPizzas/app/src/main/res/layout/activity_pasta_detail.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/derel/AndroidStudioProjects/BitsandPizzas/app/src/main/res/layout/activity_pizza_detail.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/derel/AndroidStudioProjects/BitsandPizzas/app/src/main/res/layout/activity_stores_detail.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/derel/AndroidStudioProjects/BitsandPizzas/app/src/main/res/layout/card_captioned_image.xml" value="0.203125" />
         <entry key="..\:/Users/derel/AndroidStudioProjects/BitsandPizzas/app/src/main/res/layout/fragment_pasta.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/derel/AndroidStudioProjects/BitsandPizzas/app/src/main/res/layout/fragment_pizza.xml" value="0.203125" />
+        <entry key="..\:/Users/derel/AndroidStudioProjects/BitsandPizzas/app/src/main/res/layout/fragment_stores.xml" value="0.203125" />
         <entry key="..\:/Users/derel/AndroidStudioProjects/BitsandPizzas/app/src/main/res/layout/fragment_top.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/derel/AndroidStudioProjects/BitsandPizzas/app/src/main/res/layout/toolbar_main.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/derel/AndroidStudioProjects/BitsandPizzas/app/src/main/res/menu/menu_main.xml" value="0.20416666666666666" />
